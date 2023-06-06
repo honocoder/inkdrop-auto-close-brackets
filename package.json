@@ -1,7 +1,7 @@
 {
   "name": "auto-close-brackets",
   "main": "./lib/auto-close-brackets",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A small package that auto-close parentheses, brackets and curly braces in Inkdrop.",
   "keywords": [],
   "repository": "https://github.com/jimymltta/inkdrop-auto-close-brackets",
