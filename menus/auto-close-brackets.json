@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle auto-close-brackets",
+        "command": "auto-close-brackets:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "auto-close-brackets",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "auto-close-brackets:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
